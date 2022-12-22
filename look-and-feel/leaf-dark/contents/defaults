@@ -5,7 +5,7 @@ widgetStyle=Breeze
 ColorScheme=LeafDark
 
 [kdeglobals][Icons]
-Theme=Papirus Colors Dark
+Theme=Papirus-Colors-Dark
 
 [plasmarc][Theme]
 name=leaf-dark
